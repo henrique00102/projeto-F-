@@ -50,3 +50,10 @@ p{
     padding-left: 15%;
     padding-top: 8%;
 }
+
+.banner{
+    width: 100%;
+    height: 85vh;
+    background-image: url(./baner.png/fundo-inicio.jpg);
+    background-size: 100% 120%;
+}
