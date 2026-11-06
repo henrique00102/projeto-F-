@@ -22,7 +22,7 @@ a:hover{
 }
 
 .menu{
-    width: 100%;
+    width: 90%;
     height: 15vh;
     box-sizing: border-box;
     padding-top: 1vh;
@@ -56,4 +56,8 @@ p{
     height: 85vh;
     background-image: url(./baner.png/fundo-inicio.jpg);
     background-size: 100% 120%;
+}
+img{
+    width: 300%;
+    height: auto;
 }
