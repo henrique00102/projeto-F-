@@ -36,8 +36,7 @@ a:hover{
     float: left;
 }
 
-p{
-    color: blue;
+p{                  
     font-size: 20px;
 }
 
@@ -57,7 +56,18 @@ p{
     background-image: url(./baner.png/fundo-inicio.jpg);
     background-size: 100% 120%;
 }
-img{
-    width: 300%;
+.logo img{
+    width: 100%;
     height: auto;
+    object-fit: cover;
+}     
+
+.logo{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1C0E24;
 }
+
